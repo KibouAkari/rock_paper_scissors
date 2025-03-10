@@ -1,4 +1,4 @@
-How to Play
+How to Play:
 Choose Game Mode:
 
 Play against the Computer or a Friend.
